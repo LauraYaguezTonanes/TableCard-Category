@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+body{
+    background-color: hsl(180, 3%, 94%);
+    height: 100%;
+    width: 100%;
+    margin-top: 100px;
+}
+.container{
+    background-color: white;
+    padding: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 40px auto;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    justify-content: space-between;
+    position: relative;
+    align-items: center;
+    box-sizing: content-box;
+    height: 311px;
+    width: 608px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+}
+h3{
+    font-size: 25px;
+    color: rgb(170, 170, 169);
+    font-weight: 500;
+}
+ul{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: content-box;
+    justify-content: space-between;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    font-size: 20px;
+}
+p{
+    margin-right: 50px;
+    font-weight: 900;
+    color: rgba(0, 0, 0, 0.5);
+}
+.barra label{
+    margin-left: 20px;
+    font-weight: bold;
+}
+li{
+    font-weight: bold;
+}
+.Label1{
+    border-bottom: gainsboro 1px solid;
+    padding: 0px;
+    margin: 0px;
+}
+.Label2{
+    border-bottom: gainsboro 1px solid;
+    padding: 0px;
+    margin: 0px;
+}
+.Label3{
+    border-bottom: gainsboro 1px solid;
+    padding: 0px;
+    margin: 0px;
+}
+.Label4{
+    padding: 0px;
+    margin: 0px;
+}
+
+
